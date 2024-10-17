@@ -75,4 +75,11 @@ pyinstaller -F -w PyPiSourceManagerGUI.py
 执行完成之后会在当前目录生产dist、build目录以及一个spec文件，exe文件在dist目录下面。
 如果想要重新生成exe文件则需要删掉spec文件再执行一次命令即可。
 
+# download
+```text
+https://github.com/saberbin/PyPiSourceManagerGUI/releases/tag/v1.0
+```
+[v1.0 PyPiSourceManagerGUI](https://github.com/saberbin/PyPiSourceManagerGUI/releases/tag/v1.0)
+
+
 
